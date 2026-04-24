@@ -244,7 +244,7 @@ This tool is intended for **educational and authorized security research purpose
 
 <div align="center">
 
-**PHISHLINK_DETECTOR v2.1 — Made By V.Mouli**
+**PHISHLINK_DETECTOR v2.1 — Made By Bhavya Narala**
 
 *"Built for the ones with empty pockets and full curiosity."*
 
